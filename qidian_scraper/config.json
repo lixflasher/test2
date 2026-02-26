@@ -1,0 +1,22 @@
+{
+  "llm": {
+    "api_base": "http://localhost:11434/v1",
+    "api_key": "ollama",
+    "model": "qwen2.5:14b",
+    "temperature": 0.3,
+    "max_tokens": 500
+  },
+  "scraper": {
+    "default_url": "https://www.qidian.com/rank/yuepiao/year2026-month02-/",
+    "max_books": 500,
+    "page_delay_min": 2,
+    "page_delay_max": 5,
+    "detail_delay_min": 3,
+    "detail_delay_max": 8
+  },
+  "search": {
+    "enabled": true,
+    "engine": "bing",
+    "max_results": 5
+  }
+}

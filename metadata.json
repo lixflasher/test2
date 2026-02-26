@@ -1,0 +1,5 @@
+{
+  "name": "Qidian Scraper Generator",
+  "description": "A tool to generate and view a Python scraper for Qidian multi-heroine novels.",
+  "requestFramePermissions": []
+}

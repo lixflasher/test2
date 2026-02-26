@@ -1,0 +1,4 @@
+DrissionPage>=4.0.0
+openai>=1.0.0
+httpx>=0.24.0
+beautifulsoup4>=4.12.0
